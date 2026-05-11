@@ -1,0 +1,13 @@
+{
+  "model_type": "RandomForestClassifier",
+  "n_features": 20,
+  "classes": [
+    "FATIGUE_TRADING",
+    "IMPULSIVE_ENTRY",
+    "NORMAL",
+    "OVERTRADING",
+    "REVENGE_TRADING",
+    "TILT"
+  ],
+  "trained_at": "2026-05-11T16:39:36.857482+00:00"
+}
